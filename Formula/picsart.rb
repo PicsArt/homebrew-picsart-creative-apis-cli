@@ -1,6 +1,6 @@
 require "language/node"
 
-class CliPicsart < Formula
+class Picsart < Formula
   desc "Picsart Background Removal and Image Enhancement - Allows users to remove backgrounds and upscale images without losing quality."
   homepage "https://picsart.io"
   url "https://github.com/PicsArt/picsart-creative-apis-cli/releases/download/v1.0.0/picsart-1.0.0.tar.gz", :using => :curl
